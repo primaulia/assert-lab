@@ -1,0 +1,9 @@
+{
+  "name": "assert-lab",
+  "version": "1.0.0",
+  "description": "in class lab for wdi-sg on `assert` npm package",
+  "main": "src/index.js",
+  "repository": "https://github.com/primaulia/assert-lab.git",
+  "author": "Prima Aulia Gusta",
+  "license": "GPL-3.0"
+}
